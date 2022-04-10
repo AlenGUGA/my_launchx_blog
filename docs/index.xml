@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje Alen Guga</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://alenguga.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://alenguga.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje</title>
+      <link>https://alenguga.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://alenguga.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>En las semanas en las que he participado en esta experiencia he logrado obtener cosas que me han permitido mejorar profesionalmente, a continuación escribo lo más importante en cada etapa:
+On-boarding: Conocer python, principalmente utilizar los notebooks. Frontend: El poder retomar CSS, el cual hacia años no utilizaba de forma pura. Backend: En la primer semana observo que he aprendido nuevas habilidades en la utilización de GitHub.</description>
+    </item>
+    
     <item>
       <title>Mis expectativas</title>
       <link>https://alenguga.github.io/my_launchx_blog/posts/intro/</link>
